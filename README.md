@@ -1,6 +1,6 @@
 # Becalos-2024
 
-Me llaman Medina, tengo 19 años y estudio ingenieria informatica. Quiero mejorar mi conocmineto en todos los campos de la informatica para ser un mejor desarrollador
+Me llamo  Eduardo Medina, tengo 19 años y estudio ingenieria en informatica. Quiero mejorar mi conocmineto en todos los campos de la informatica para ser un mejor desarrollador en el ambito profesional.
 
 # Sobre mi:
 
